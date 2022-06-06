@@ -38,12 +38,6 @@
 <br/><br/>
 
 
-## [串接外包商SDK]
-
-![FlickrSearch](Gif/SDK.gif)
-<br/><br/>
-
-
 ## [檢舉]
 
 ![FlickrSearch](Gif/blockade.gif)
