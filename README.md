@@ -40,7 +40,7 @@
 
 ## [封鎖]
 
-![FlickrSearch](Gif/CommentView.gif)
+![FlickrSearch](Gif/Blockade.gif)
 <br/><br/>
 
 
