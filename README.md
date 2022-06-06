@@ -3,6 +3,7 @@
 
 ## [登入畫面]
 
+
 ![FlickrSearch](Gif/Login_1.gif)
 <br/><br/>
 
@@ -45,7 +46,7 @@
 
 ## [檢舉]
 
-![FlickrSearch](Gif/CommentView.gif)
+![FlickrSearch](Gif/blockade.gif)
 <br/><br/>
 
 
