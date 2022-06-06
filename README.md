@@ -38,12 +38,6 @@
 <br/><br/>
 
 
-## [檢舉]
-
-![FlickrSearch](Gif/Blockade.gif)
-<br/><br/>
-
-
 ## [封鎖]
 
 ![FlickrSearch](Gif/CommentView.gif)
